@@ -1,4 +1,4 @@
-# Connect4 AI Game 🎮🧠
+# Connect4 AI Game 🎮
 
 An AI-powered Connect4 game built using the **Minimax algorithm** with **alpha-beta pruning**. The game allows users to play against an intelligent AI opponent that makes strategic moves.
 
